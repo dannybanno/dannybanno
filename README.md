@@ -2,5 +2,5 @@
 <p align='center'>
 i am  <i>d a n n y</i>
 </p>
-<p align='center'>I like to code mainly in python, C#, html, css and learning more such as c++. You can see some of my projects or little bits on my profile</p>
+<p align='center'>I like to code mainly in python, C# but know how to in html, css and learning more such as c++. You can see some of my projects or little bits on my profile</p>
 
