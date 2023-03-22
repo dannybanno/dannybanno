@@ -2,5 +2,5 @@
 <p align='center'>
 i am  <i>d a n n y</i>
 </p>
-<p align='center'>I like to code mainly in python, C# but know how to in html, css and learning more such as c++. You can see some of my projects or little bits on my profile</p>
+<p align='center'>This is a GitHub account showcasing my programming skills in C++, Python, HTML, CSS, and C#. This account contains various projects and repositories that highlight my expertise in these programming languages.</p>
 
