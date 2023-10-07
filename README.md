@@ -11,10 +11,7 @@ i am  <i>d a n n y</i>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannybanno&label=Profile%20views&color=0e75b6&style=flat" alt="dannybanno" /> </p>
 <img align="center" src="https://i.imgur.com/pK0nxbj.png" width="682" height="341">
 
-<a href="https://imstyles.dannybanno.repl.co">
-  <h1 align="center">! Imgui Styles For Sale !</h1>
-  <h1 align="center">! imstyles.dannybanno.repl.co !</h1>
-</a>
+
 
 
                                           
