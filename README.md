@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning C++, Game Hacking and Reverse Engineering<br>🤩 My favourite github project is imgui-particle-background <br>
+🌱 I’m currently learning C++, Game Hacking and Reverse Engineering<br>
 
 
 ## 🌐 Socials:
